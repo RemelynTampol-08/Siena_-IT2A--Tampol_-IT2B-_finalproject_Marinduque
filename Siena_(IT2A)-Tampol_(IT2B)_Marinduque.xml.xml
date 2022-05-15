@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Welcome-kabayan_and_Explore_the_Hidden_beauty_of_Marinduque[
+<!ELEMENT Welcome-kabayan_and_Explore_the_Hidden_beauty_of_Marinduque (map, name, description, links, p, menu-list)>
+<!ELEMENT menu-list (name_class1, name_class2, name_class3, name_class4, name_class5)>
+<!ELEMENT name_class1 (title, description)>
+<!ELEMENT name_class2 (title, spots)>
+<!ELEMENT name_class3 (name, phone-number)>
+<!ELEMENT name_class4 (name, officials)>
+
+<!ELEMENT map (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT links (#PCDATA)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT menu-list (#PCDATA)>
+
+<!ELEMENT name_class1 (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+<!ELEMENT name_class2 (#PCDATA)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT spots (#PCDATA)>
+<!ELEMENT name_class3 (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT phone-number (#PCDATA)>
+<!ELEMENT name_class4 (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT officials (#PCDATA)>
+<!ELEMENT name_class5 (#PCDATA)>
+
+<!ATTLIST name class2 CDATA #REQUIRED>
+    <!ATTLIST name class CDATA #REQUIRED>
+      <!ATTLIST buenavista-spot id1 CDATA #REQUIRED>
+      <!ATTLIST buenavista-spot id2 CDATA #REQUIRED>
+      <!ATTLIST buenavista-spot id3 CDATA #REQUIRED>
+    <!ATTLIST name class CDATA #REQUIRED>
+      <!ATTLIST gasan-spot id1 CDATA #REQUIRED>
+      <!ATTLIST gasan-spot id1 CDATA #REQUIRED>
+      <!ATTLIST gasan-spot id1 CDATA #REQUIRED>
+    <!ATTLIST name class CDATA #REQUIRED>
+      <!ATTLIST boac-spot id1 CDATA #REQUIRED>
+      <!ATTLIST boac-spot id2 CDATA #REQUIRED>
+      <!ATTLIST boac-spot id3 CDATA #REQUIRED>
+   <!ATTLIST name class CDATA #REQUIRED>
+      <!ATTLIST mogpog-spot id1 CDATA #REQUIRED>
+      <!ATTLIST mogpog-spot id2 CDATA #REQUIRED>
+      <!ATTLIST mogpog-spot id3 CDATA #REQUIRED>
+   <!ATTLIST name class CDATA #REQUIRED>
+      <!ATTLIST santa-cruz-spot id1 CDATA #REQUIRED>
+      <!ATTLIST santa-cruz-spot id2 CDATA #REQUIRED>
+      <!ATTLIST santa-cruz-spot id3 CDATA #REQUIRED>
+    <!ATTLIST name class CDATA #REQUIRED>
+      <!ATTLIST torrijos-spot id1 CDATA #REQUIRED>
+      <!ATTLIST torrijos-spot id1 CDATA #REQUIRED>
+      <!ATTLIST torrijos-spot id1 CDATA #REQUIRED>
+
+<!ATTLIST name class3 CDATA #REQUIRED>
+    <!ATTLIST contact-us id1 CDATA #REQUIRED>
+    <!ATTLIST contact-us id2 CDATA #REQUIRED>
+    <!ATTLIST contact-us id3 CDATA #REQUIRED>
+    <!ATTLIST contact-us id4 CDATA #REQUIRED>
+    <!ATTLIST contact-us id5 CDATA #REQUIRED>
+    <!ATTLIST contact-us id6 CDATA #REQUIRED>
+
+<!ATTLIST name class4 CDATA #REQUIRED>
+
+<!ATTLIST name class5 CDATA #REQUIRED>
+  <!ATTLIST name class1 CDATA #REQUIRED>
+    <!ATTLIST name-of-culture name1 CDATA #REQUIRED>
+    <!ATTLIST name-of-culture name2 CDATA #REQUIRED>
+    <!ATTLIST name-of-culture name3 CDATA #REQUIRED>
+ <!ATTLIST name class2 CDATA #REQUIRED>
+    <!ATTLIST name-of-livelihood name1 CDATA #REQUIRED>
+    <!ATTLIST name-of-livelihood name2 CDATA #REQUIRED>
+ <!ATTLIST name class3 CDATA #REQUIRED>
+    <!ATTLIST name-of-food name1 CDATA #REQUIRED>
+    <!ATTLIST name-of-food name1 CDATA #REQUIRED>
+    <!ATTLIST name-of-food name3 CDATA #REQUIRED>
+]>
+
+<Welcome-kabayan_and_Explore_the_Hidden_beauty_of_Marinduque>
+  
+  <map>Map of the province of Marinduque</map>
+  <name>Moriones Festival</name>
+  <description> The Moriones is a lenten festival held annually on Holy Week on the island of Marinduque, Philippines. The "Moriones" are men and women in costumes and masks replicating the garb of biblical Imperial and Royal Roman soldiers as interpreted by locals. The Moriones tradition has inspired the creation of other festivals in the Philippines where cultural practices is turned into street festivals. It is a colorful festival celebrated on the island of Marinduque in the Philippines. The participants use morion masks to depict the Roman soldiers and Syrian mercenaries within the story of the Passion of the Christ. The mask was named after the 16th and 17th century Morion helmet. The Moriones refers to the masked and costumed penitents who march around the town for seven days searching for Longinus. Morions roam the streets in town from Holy Monday to Easter Sunday scaring the kids, or engaging in antics or surprises to draw attention. This is a folk-religious festival that re-enacts the story of Saint Longinus, a Roman centurion who was blind in one eye. The festival is characterized by colorful Roman costumes, painted masks and helmets, and brightly colored tunics.</description>
+  <links>Facebook, Twitter, Instagram</links>
+  <p>Parini na baya sa amin at magsaya sa puso ng Pilipinas</p>
+  
+  <menu-list>
+    
+    <name class1="History">
+      <title> History of Marinduque</title>
+      <description>Marinduque started as a story of two lovers . The only story is about its ancient beginnings when the Island was first formed. It was said that two lovers went out to sea and drowned for their love was forbidden on land. The earth felt so sorry for the two lovers, it decided to leave a mark in the place where they drowned. An island named Marinduque - a combination of both of their names, Marina and Garduk - arose out of the sea in a heart shaped form.
+      In the Spanish accounts, the people called the island Malandik or Malindig because that was the name of the volcano on the island. But the Spanish could not pronounce it, so they called it Marinduk and it eventually, became Marinduque (maybe due to extra spanish influence or maybe after the spanish left, they just wanted it to sound spanish.). It was settled by people mainly from Batangas and Mindoro. Marinduque was an extension of a settlement whose permanent base was in Batangas. Dumagsil and Balkasusa were the two Bornean Datus who ruled over these settlements called the Bonbon settlements. 
+      I believe Mindoro has influences because that is the only island which can be easily reached from Marinduque. The Visayas and the Bikol region are unreachable from Marinduque by boat because of unfavorable currents. Tagalog became the main dialect in Marinduque because Tagalogs were the more dominant ethnic group in the area. These Tagalog influences came from Batangas. Other people in Marinduque, like Mangyans from Mindoro, probably were assimilated into the Tagalog culture, because they had a less dominant culture. I believe there are some superstitions which Mangyans and Marinduquenos share, but that still has to be further researched. Other proof of the link between Mindoro and Marinduque is the Moriones festival and the use of the Kalutang, a wooden instrument.
+      </description>
+    </name>
+    
+    <name class2="Spotted">
+      <title>Tourist spots in every town of Marinduque. (Please click the town you want to visit)</title>
+      
+      <spots>
+        <name class="Buenavista">
+          
+          <spot-name>Buenavista Spotted</spot-name>
+          <map>Map of the province of Marinduque</map>
+          
+          <buenavista-spot id1="0001">
+            <name>Hidden Greenery Resort</name>
+            <location>Bagtingon, Buenavista, Marinduque</location>
+            <contact-number>0968-290-0091</contact-number>
+          </buenavista-spot>
+          
+          <buenavista-spot id2="0002">
+            <name>Hot Spring Resort</name>
+            <location>Malbog, Buenavista, Marinduque</location>
+            <contact-number>0963-295-1584</contact-number>
+          </buenavista-spot>
+          
+          <buenavista-spot id3  ="0003">
+            <name>Bellarocca Resort</name>
+            <location>Buenavista, Marinduque</location>
+            <contact-number>0909-255-1880</contact-number>
+          </buenavista-spot>
+          
+        </name>
+        
+        <name class="Gasan">
+          
+          <spot-name>Gasan Spotted</spot-name>
+          <map>Map of the province of Marinduque</map>
+          
+          <gasan-spot id1="0001">
+            <name>Church of Gasan</name>
+            <location>Saint Joseph Church, Gasan, Marinduque</location>
+            <contact-number>0967-200-9991</contact-number>
+          </gasan-spot>
+          
+          <gasan-spot id2="0002">
+            <name>Nature's Way Garden Sunflower Farm</name>
+            <location>Saint Mangiliol, Gasan, Marinduque</location>
+            <contact-number>0921-550-1741</contact-number>
+          </gasan-spot>
+          
+          <gasan-spot id3="0003">
+            <name>Pinky's Taha Resort</name>
+            <location>Dili, Gasan, Marinduque</location>
+            <contact-number>0928-195-6641</contact-number>
+          </gasan-spot>
+          
+        </name>
+        
+        
+        <name class="Boac">
+          
+          <spot-name>Boac Spotted</spot-name>
+          <map>Map of the province of Marinduque</map>
+          
+          <boac-spot id1="0001">
+            <name>Church of Boac</name>
+            <location>Town of Boac Marinduque</location>
+            <contact-number>0902-702-6561</contact-number>
+          </boac-spot>
+          
+          <boac-spot id2="0002">
+            <name>Balar Hotel and Spa</name>
+            <location>Balaring Building, Boac, Marinduque</location>
+            <contact-number>0917-882-2527</contact-number>
+          </boac-spot>
+          
+          <boac-spot id3="0003">
+            <name>Kusina sa Plaza</name>
+            <location>Mercader St, Boac, Marinduque</location>
+            <contact-number>(042) 332 1699</contact-number>
+          </boac-spot>
+          
+        </name>
+        
+        
+        <name class="Mogpog">
+          
+          <spot-name>Mogpog Spotted</spot-name>
+          <map>Map of the province of Marinduque</map>
+          
+          <mogpog-spot id1="0001">
+            <name>Luzon Datum of 1911</name>
+            <location>Hinanggayon, Mogpog Marinduque</location>
+            <contact-number>0929-575-5580</contact-number>
+          </mogpog-spot>
+          
+          <mogpog-spot id2="0002">
+            <name>Natangco Island</name>
+            <location>Silangan, Mogpog, Marinduque</location>
+            <contact-number>0999-510-9141</contact-number>
+          </mogpog-spot>
+          
+          <mogpog-spot id3="0003">
+            <name>Balanacan View Deck</name>
+            <location>Balanacan View Deck, Mogpog Marinduque</location>
+            <contact-number>0955-987-7330</contact-number>
+          </mogpog-spot>
+          
+        </name>
+        
+        <name class="Santa Cruz">
+          
+          <spot-name>Santa Cruz Spotted</spot-name>
+          <map>Map of the province of Marinduque</map>
+          
+          <santa-cruz-spot id1="0001">
+            <name>Holy Cross Parish, Sta.Cruz Marinduque</name>
+            <location>Santa Cruz, Marinduque Church</location>
+            <contact-number>0955-669-0180</contact-number>
+          </santa-cruz-spot>
+          
+          <santa-cruz-spot id2="0002">
+            <name>Bathala Cave</name>
+            <location>Ipil, Santa Cruz, Marinduque</location>
+            <contact-number>0916-750-1442</contact-number>
+          </santa-cruz-spot>
+          
+          <santa-cruz-spot id3="0003">
+            <name>Maniwaya Island</name>
+            <location>Maniwaya Island, Santa Cruz Marinduque</location>
+            <contact-number>0990-765-1230</contact-number>
+          </santa-cruz-spot>
+          
+        </name>
+        
+        <name class="Torrijos">
+          
+          <spot-name>Torrijos Spotted</spot-name>
+          <map>Map of the province of Marinduque</map>
+          
+          <torrijos-spot id1="0001">
+            <name>White Beach Resort</name>
+            <location>83GX+CV4, Torrijos, Marinduque</location>
+            <contact-number>0930-975-9865</contact-number>
+          </torrijos-spot>
+          
+          <torrijos-spot id2="0002">
+            <name>Exotic Island View Beach Resort</name>
+            <location>Torrijos, Marinduque</location>
+            <contact-number>0921-513-9161</contact-number>
+          </torrijos-spot>
+          
+          <torrijos-spot id3="0003">
+            <name>Beach Club Cagpo</name>
+            <location>Cagpo, Torrijos, Marinduque</location>
+            <contact-number>0908-115-8520</contact-number>
+          </torrijos-spot>
+          
+        </name>
+        
+      </spots>
+      <p>It's more fun in the Philippines</p>
+    </name>
+    
+    <name class3="Contact-Us">
+      <name>Contact Us</name>
+      <phone-number>
+        <contact-us id1="tnt">Tnt: 0934-345-7361</contact-us>
+        <contact-us id2="smart">Smart: 0991-611-8829</contact-us>
+        <contact-us id3="globe">Globe: 0988-123-9512</contact-us>
+        <contact-us id4="email">Email: marinduquespotted@gmail.com</contact-us>
+        <contact-us id5="instagram">Instagram: marinduquespotted.com</contact-us>
+        <contact-us id6="twitter">Twitter: marinduquespotted.com</contact-us>
+      </phone-number>
+    </name>
+    
+    <name class4="Politician">
+       <name>Current Poticians in Marinduque</name>
+       <officials>
+          <governor>Presby Velasco</governor>
+          <vice-governor>Lyn Angeles</vice-governor>
+          <boac-mayor>Ami Carrion</boac-mayor>
+          <torrijos-mayor>Lorna Velasco</torrijos-mayor>
+          <gasan-mayor>Rolando Tolentino</gasan-mayor>
+          <buenavista-mayor>Bong Siena</buenavista-mayor>
+          <mogpog-mayor>Augusto Leo Livelo</mogpog-mayor>
+          <santa-cruz-mayor>Marisa Red</santa-cruz-mayor>
+       </officials>
+    </name>
+
+
+
+    <name class5="Others">
+      <name class1="Culture">
+        <name>Culture of Marinduque</name>
+
+          <name-of-culture name1="Putong">
+             <description>Putong or tubong is a ceremony occasionally performed in the Province of Marinduque, Philippines, in which visitors are honored and welcomed. The ceremony takes the form of the eponymous song which is a call for "thanksgiving, hope and prayer for a long, blessed life". The ceremony begins with the celebrants gathering around the home of the host, they begin singing slowly as they enter the house, accompanied by a guitarist. They women wear costumes such as a kimono or a saya, while the men wear a barong, and they carry baskets of flowers, palm leaves, or coins. Once in the home, the tempo of the song picks up until a crown is placed on the honoree's head. After being crowned, the honoree is then showered with the contents of the celebrant's baskets. The celebration ends with all the participants shouting Mabuhay, which means "long life".</description>
+          </name-of-culture>
+         
+         <name-of-culture name2="Butterfly Farming">
+             <description>Butterflies are one of the most fascinating and beautiful insects. Watching them flutter on rows of colorful and scented flowers makes you smile. In Marinduque there is a place where in you can watch butterflies!!! Welcome to “Marinduque Lepidoptera Farm and Garden” which is located at Baranggay Uno, Gasan Marinduque.</description>
+          </name-of-culture>
+
+          <name-of-culture name3="Moriones Festival">
+             <description>The Moriones is a lenten festival held annually on Holy Week on the island of Marinduque, Philippines. The Moriones are men and women in costumes and masks replicating the garb of biblical Imperial and Royal Roman soldiers as interpreted by locals. The Moriones tradition has inspired the creation of other festivals in the Philippines where cultural practices is turned into street festivals. It is a colorful festival celebrated on the island of Marinduque in the Philippines. The participants use morion masks to depict the Roman soldiers and Syrian mercenaries within the story of the Passion of the Christ. The mask was named after the 16th and 17th century Morion helmet. The Moriones refers to the masked and costumed penitents who march around the town for seven days searching for Longinus. Morions roam the streets in town from Holy Monday to Easter Sunday scaring the kids, or engaging in antics or surprises to draw attention. This is a folk-religious festival that re-enacts the story of Saint Longinus, a Roman centurion who was blind in one eye. The festival is characterized by colorful Roman costumes, painted masks and helmets, and brightly colored tunics.</description>
+          </name-of-culture>
+        
+      </name>
+      <name class2="Livelihood">
+         <name>Livelihood of Marinduque</name>
+
+         <name-of-livelihood name1="Fishing">
+             <description>Fishing is one of the most considered livelihood in the province of marinduque. Since the province was sorrounded by seas it is very convenient for them to engage in this kind of job. Marinduque Island is also considered as one of the best place where marine wildlife is good and stable. However because of wrong fishing procedures such as dynamite fishing it causes severe effect to the marine wildlife thus as an impact to the human it causes the high prices of fish in market the that the government was trying to reponds in this kind of situation.</description>
+          </name-of-livelihood>
+
+          <name-of-livelihood name2="Farming">
+             <description>In terms of farming Marinduque is indeed ideal in this kind of livelihood. Since it is a provice the agricultural crops are difinitely suitable for every aspect of lands. Farming would not be hard for the people living in the community since the water supply in the province is good enough and the infractures is not a problem.</description>
+          </name-of-livelihood>
+        
+      </name>
+      <name class3="Food">
+        <name>Traditional Foods of Marinduque</name>
+
+        <name-of-food name1="Suman with Kalamayhati">
+             <description>Suman is usually made up of glutinous rice cooked in coconut milk and wrapped in banana leaves or palm leaf strips. These sticky native rice delicacies are often eaten with sugar, latik or kalamayhati. In Marinduque, they have a unique version of suman called tininta suman.</description>
+          </name-of-food>
+
+          <name-of-food name2="Bibingkang Lalaki">
+             <description>The island province has several native versions of bibingka, a staple rice cake delicacy found all over the Philippines, with Bibingkang Lalaki (male bibingka) being just one of them. Bibingkang Lalaki is also referred to as Bibingkang Boac, named after the province’s capital. It’s a huge portion of bibingka; that’s the size of a pizza. Locals will explain amusedly that this version of bibingka is called as thus because it contains eggs. Bibingkang lalaki also uses coconut wine instead of yeast, which keeps its inside moist after cooking.</description>
+          </name-of-food>
+
+          <name-of-food name3="saludsod">
+             <description>Saludsod is Marinduque’s native version of pancakes. It’s a popular local delicacy that visitors absolutely must try when in Marinduque as they’ll never find this anywhere else in the Philippines. This local pancake is made with a special batter using native ingredients, including arrowroot powde , coconut milk, flour, and sugar. The batter is then cooked on a hot pan just like a typical pancake. But saludsod is sweeter in flavor and has a creamy/buttery texture.</description>
+          </name-of-food>
+
+          <name-of-food name4="Kari-kari">
+             <description>In most parts of Luzon, Kare-kare is popular comfort food made up of oxtail stew with rich peanut butter sauce. This savory stew is very different from Marinduque’s version of kare-kare. In Marinduque, kare-kare, or as they call it Kari-Kari, is a cross between bopis and dinuguan. It’s like bopis with pork blood and a dried version of dinuguan. Marinduque’s Kari-Kari is made up of the pig’s innards like its heart, small intestines, kidneys, spleen, and blood. It’s also cooked with garlic, onion, and chili peppers. If you want to sample Kari-Kari while in Marinduque, you should visit Casa de Don Emilio and Café Mamita – two of the highly recommended places to eat in Boac, Marinduque.</description>
+          </name-of-food>
+
+          <name-of-food name5="Ulang-ulang">
+             <description>Ulang-ulang is one of the top must-try native dishes in Marinduque. It’s a seafood dish made of crab meat from a native variety of crab in Marinduque called kagang. The crab meat is cooked with shredded coconut and coconut milk and other ingredients like onion, garlic, and kalamansi juice. It’s then served inside a crab shell wrapped in banana leaves. Opening this wrapped dish is like opening a delicious seafood present.</description>
+          </name-of-food>
+      </name>
+    </name>
+  </menu-list>
+  
+</Welcome-kabayan_and_Explore_the_Hidden_beauty_of_Marinduque>
